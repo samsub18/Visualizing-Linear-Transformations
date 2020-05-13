@@ -1,2 +1,2 @@
-# Visualizing-Linear-Transformations
+# Visualizing Linear Transformations
 ![](transform.gif)
